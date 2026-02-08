@@ -105,3 +105,17 @@ function drawFromCode() {
 
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>페이지 제목</title>
+</head>
+<body>
+
+  <!-- 여기에 웹페이지 내용 넣기 -->
+  <h1>안녕하세요!</h1>
+
+</body>
+</html>
