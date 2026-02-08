@@ -13,9 +13,7 @@ body {
   align-items: center;
   padding: 20px;
 }
-
 h1 { color: #333; }
-
 .card {
   background: white;
   padding: 20px;
@@ -26,7 +24,6 @@ h1 { color: #333; }
   max-width: 450px;
   text-align: center;
 }
-
 textarea { width: 100%; margin-top: 10px; }
 button {
   margin-top: 10px;
@@ -38,7 +35,6 @@ button {
   cursor: pointer;
 }
 button:hover { background: #5563d6; }
-
 canvas { border:1px solid #333; margin-top:10px; }
 </style>
 </head>
